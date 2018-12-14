@@ -54,12 +54,11 @@ body {
 .radioSection {
   display: none; }
 
-.close {
+.modal .modal-header {
+  background-color: #512DA8;
   color: floralwhite; }
+  .modal .modal-header .close {
+    color: floralwhite; }
 
-.modal-header {
-  color: floralwhite;
-  background-color: #512DA8; }
-
-.modal-body {
+.modal .modal-body {
   background-color: #D1C4E9; }
