@@ -50,3 +50,16 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+
+.radioSection {
+  display: none; }
+
+.close {
+  color: floralwhite; }
+
+.modal-header {
+  color: floralwhite;
+  background-color: #512DA8; }
+
+.modal-body {
+  background-color: #D1C4E9; }
